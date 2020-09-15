@@ -27,7 +27,7 @@ SECRET_KEY = 'g^u#z006!79ty-j&tjq^xr113zkbdk^vq$*$*(wetgk0k&or_w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['aggyani.pythonanywhere.com']
 
 
 # Application definition
